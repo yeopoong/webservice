@@ -29,3 +29,9 @@ As this Web service is implemented as a Servlet, we need registering the Servlet
     <url-pattern>/*</url-pattern>
   </servlet-mapping> 
 ```
+
+## JBoss Admin Console
+```
+http://localhost:9990/console
+admin/admin
+```
